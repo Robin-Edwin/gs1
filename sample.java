@@ -8,6 +8,6 @@ public class AddTwoNumbers {
         int sum = num1 + num2;
 
         // Print the result
-        System.out.println("The sum of " + num1 + " and " + num2 + " is: " + sum);
+        System.out.println("The asthetic sum of " + num1 + " and " + num2 + " is: " + sum);
     }
 }
